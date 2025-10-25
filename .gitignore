@@ -1,0 +1,14 @@
+# ----------------------------------------------------------------------
+# CRITICAL SECURITY: DO NOT COMMIT THESE FILES
+# These contain the encryption key, plaintext passwords, or local config.
+# ----------------------------------------------------------------------
+secret.key
+encrypt_once.py 
+.env 
+*.pyc
+
+# ----------------------------------------------------------------------
+# PYTHON & ENVIRONMENT FILES
+# ----------------------------------------------------------------------
+__pycache__/
+venv/
